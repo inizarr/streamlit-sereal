@@ -188,9 +188,9 @@ from sklearn.metrics import mean_squared_error
 print('R2:', r2_score(y_test,pred))
 print('RMSE:', np.sqrt(mean_squared_error(y_test, pred)))
 ```
-RMSE: Root Mean Squared Error.
-y_actual: Data aktual (nilai sebenarnya).
-y_pred: Data hasil prediksi dari model regresi linear.
+RMSE: Root Mean Squared Error.<br>
+y_actual: Data aktual (nilai sebenarnya).<br>
+y_pred: Data hasil prediksi dari model regresi linear.<br>
 n: Jumlah total titik data.
 
 ## Deployment
