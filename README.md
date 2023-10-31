@@ -29,21 +29,21 @@ Dataset yang saya gunakan berasal dari Kaggle.<br>
 
 ## Variabel-variabel pada 80 cereals adalah sebagai berikut:
 
-calories : satuan yang digunakan untuk mengukur jumlah energi yang diperoleh atau digunakan oleh tubuh dari makanan dan minuman yang dikonsumsi.
+calories : Jumlah kalori per porsi sereal.
 
-protein : nutrisi penting yang berperan dalam banyak fungsi biologis yang krusial dalam tubuh manusia.
+protein : Jumlah protein per porsi sereal.
 
-fat : komponen gizi yang penting untuk kesehatan dan fungsi tubuh.
+fat : Jumlah lemak per porsi sereal.
 
-sodium : salah satu unsur kimia esensial yang ditemukan dalam tubuh manusia.
+sodium : Kandungan natrium per porsi sereal.
 
-fiber :  bagian dari tanaman yang tidak dapat dicerna oleh sistem pencernaan manusia karena manusia tidak memiliki enzim yang diperlukan untuk memecah serat.
+fiber :  Jumlah serat per porsi sereal.
 
-carbo : sumber utama energi untuk tubuh manusia.
+carbo : Jumlah karbohidrat per porsi sereal.
 
-sugars : sumber utama rasa manis dalam makanan dan minuman yang dikonsumsi oleh manusia.
+sugars : Jumlah gula per porsi sereal.
 
-rating : memberi penilaian terhadap kualitas atau kinerja suatu produk, layanan, acara, atau entitas tertentu. 
+rating : Rating keseluruhan sereal.
 
 ## Data Preparation
 ### Data Collection
