@@ -163,12 +163,6 @@ print('Estimasi nilai potass di dalam cereal :', prediction)
 ```
 akurasi model regresi linier =  0.9248463099700517
 
-```bash
-input_data = np.array([[70,4,1,260,9,7,5,3]])
-
-prediction = lr.predict(input_data)
-print('Estimasi nilai potass di dalam cereal :', prediction)
-```
 
 sekarang modelnya sudah selesai, mari kita export sebagai sav agar nanti bisa kita gunakan pada project web streamlit kita
 ```bash
