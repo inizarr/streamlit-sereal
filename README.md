@@ -116,7 +116,7 @@ df.describe()
 ```bash
 df.hist(figsize=(15, 10), bins=10, xlabelsize=5, ylabelsize=8);
 ```
-![Alt text](A4-1.png)
+![Alt text](A4.png)
 
 Mari kita lanjut dengan data exploration
 
