@@ -4,7 +4,7 @@ import streamlit as st
 # Muat model
 model = pickle.load(open('Sereal.sav', 'rb'))
 
-st.title('Estimasi Sereal')
+st.title('Prediksi Sereal')
 
 calories = st.number_input('Input calories')
 protein = st.number_input('Input protein')
@@ -17,7 +17,7 @@ rating = st.number_input('Input rating')
 
 predict = ''
 
-if st.button('Estimasi Sereal'):
+if st.button('Prediksi Sereal'):
     input_data = [[calories, protein, fat, sodium, fiber, carbo, sugars, rating]]
     predict = model.predict(input_data)
-    st.write('Estimasi Sereal:', predict[0])
+    st.write('Prediksi Sereal:', predict)
