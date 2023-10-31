@@ -29,21 +29,21 @@ Dataset yang saya gunakan berasal dari Kaggle.<br>
 
 ## Variabel-variabel pada 80 cereals adalah sebagai berikut:
 
-calories : Jumlah kalori per porsi sereal.
+calories : Jumlah kalori dalam setiap jenis sereal.
 
-protein : Jumlah protein per porsi sereal.
+protein : Kandungan protein dalam gram.
 
-fat : Jumlah lemak per porsi sereal.
+fat : Kandungan lemak dalam gram.
 
-sodium : Kandungan natrium per porsi sereal.
+sodium : Kandungan natrium dalam miligram.
 
-fiber :  Jumlah serat per porsi sereal.
+fiber :  Kandungan serat dalam gram.
 
-carbo : Jumlah karbohidrat per porsi sereal.
+carbo : Kandungan karbohidrat dalam gram.
 
-sugars : Jumlah gula per porsi sereal.
+sugars : Jumlah gula dalam gram.
 
-rating : Rating keseluruhan sereal.
+rating : Nilai rating sereal.
 
 ## Data Preparation
 ### Data Collection
