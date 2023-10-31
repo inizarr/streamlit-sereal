@@ -202,4 +202,4 @@ n: Jumlah total titik data.
 
 [Prediksi Sereal] (https://app-sereal-jkyrfq7irrrfwqxf4bvvvj.streamlit.app/)
 
-![Alt text](A3.png)
+![Alt text](A5.png)
